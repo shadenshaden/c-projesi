@@ -8,3 +8,7 @@ Rezervasyon yönetimi: Proje, ziyaretçilerin rezervasyonlarını kolay ve hızl
 Oda yönetimi: Proje, yönetimin odaları kolay ve etkili bir şekilde yönetmesine olanak tanır, bu da odaların eklenmesi ve silinmesi, fiyatların belirlenmesi ve durumların yönetilmesini içerir.
 
 Faturalandırma ve hesap yönetimi: Proje, yönetimin faturaları kolay bir şekilde oluşturmasına, satış raporları ve mali performans analizleri üretmesine olanak tanır."
+
+
+
+![c#tabloari](https://user-images.githubusercontent.com/104395005/236690698-e8cdae97-d08a-432d-8335-13078222c6ef.jpg)
